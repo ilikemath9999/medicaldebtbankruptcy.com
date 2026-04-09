@@ -1,0 +1,2169 @@
+# medicaldebtbankruptcy.com -- Full Content
+
+This file contains the full text content of all pages on medicaldebtbankruptcy.com.
+Part of the Open Bankruptcy Project (openbankruptcyproject.org).
+
+
+---
+
+## Bankruptcy Exemptions and Medical Assets -- Medical Debt
+Source: https://medicaldebtbankruptcy.com/bankruptcy-exemptions.html
+
+Bankruptcy Exemptions and Medical Assets
+
+Protecting Medical Equipment, HSAs, and Special Needs Trusts
+
+← Back to medicaldebtbankruptcy.com
+
+Medical Equipment Is Protected
+
+Wheelchairs, prosthetics, hearing aids, oxygen equipment, CPAP machines, insulin pumps, and other medically necessary equipment are exempt in virtually all states. Either through specific medical equipment exemptions or through the 'health aids' or 'personal property' exemption categories. You will not lose medical equipment in bankruptcy.
+
+Health Savings Accounts (HSAs)
+
+HSAs have varying protection depending on the state. Many states exempt HSAs as retirement-type accounts. The federal bankruptcy exemptions (available in some states) do not specifically mention HSAs, but some courts have protected them under the wildcard exemption. If you have a significant HSA balance, check your state's exemption laws or ask your attorney.
+
+Special Needs Trusts
+
+Properly structured special needs trusts (also called supplemental needs trusts) are generally protected from both creditors and the bankruptcy estate. These trusts are designed to provide for disabled individuals without affecting government benefit eligibility. The key is that the trust must be irrevocable and not controlled by the beneficiary. Self-settled special needs trusts have different rules.
+
+Insurance and Benefits
+
+Health insurance cannot be cancelled because you file bankruptcy. COBRA rights are preserved. Medicaid and Medicare eligibility are not affected by bankruptcy. Disability benefits (SSDI, SSI, VA) continue unchanged. Health insurance premium tax credits are not affected. Essentially, all health-related benefits and protections survive bankruptcy intact.
+
+Frequently Asked Questions
+
+Can they take my wheelchair in bankruptcy?
+
+No. Medical equipment necessary for health is exempt in every state. No trustee will attempt to take medically necessary equipment.
+
+Is my HSA protected from creditors outside bankruptcy?
+
+Protection varies by state. Some states specifically protect HSAs; others do not. Inside bankruptcy, protection depends on your state's exemption laws. Consult an attorney if you have a large HSA balance.
+
+What about ABLE accounts for disabled family members?
+
+ABLE accounts (Achieving a Better Life Experience) are generally protected from creditors and are excluded from means test calculations. They are designed specifically to protect savings for disabled individuals.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code)
+and the Fair Debt Collection Practices Act (15 U.S.C. 1692). District-level statistics from the
+Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
+This is educational content, not legal advice.
+
+Related Guides
+
+1099-C Canceled Debt Guide
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+Credit Card Forgiveness Options
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on medical debt and bankruptcy:
+
+No Surprises Act
+HHS surprise billing protections
+
+CFPB: Medical Debt
+CFPB resources
+
+CFPB Medical Debt Rule
+2025 rule
+
+IRS: Charity Care (501(r))
+Hospital financial assistance
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Medical Debt Research
+Google Scholar
+
+KFF Medical Debt Data
+Kaiser Family Foundation
+
+Related Guides
+
+Medical Bills in Bankruptcy
+
+Medical debt is fully dischargeable
+
+medicalbillbankruptcy.com →
+
+Taxes and Bankruptcy
+
+Free bankruptcy information guide
+
+bankruptcytaxes.org →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+Medical Debt Rights
+
+Free bankruptcy information guide
+
+medicaldebtrights.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener\n Open Bankruptcy Project\n Ch.7 vs Ch.13\n Bankruptcy Cost\n Automatic Stay\n 341 Meeting\n Exemptions by State\n Means Test\n File Without a Lawyer\n Rebuild Credit\n medicaldebtbankruptcy.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Chapter 13 Bankruptcy for Medical Debt
+Source: https://medicaldebtbankruptcy.com/chapter-13-medical-debt.html
+
+Chapter 13 Bankruptcy for Medical Debt
+
+Repayment Plans That Include Medical Bills
+
+← Back to medicaldebtbankruptcy.com
+
+How Chapter 13 Treats Medical Debt
+
+In Chapter 13, medical bills are classified as general unsecured claims. They receive the lowest priority in the repayment plan, paid after secured debts, administrative expenses, and priority claims. You pay a percentage of your medical debt over 3-5 years based on your disposable income. The remaining balance is discharged at plan completion.
+
+What Percentage Do You Pay?
+
+Many Chapter 13 plans pay 0-10% to general unsecured creditors (including medical providers). Some pay more, depending on your income and expenses. The key is that you pay what you can afford over 3-5 years, and the rest is eliminated. This is often dramatically less than the total medical debt.
+
+When Chapter 13 Is Better Than Chapter 7
+
+Choose Chapter 13 over Chapter 7 when: you do not pass the means test for Chapter 7, you want to catch up on mortgage or car payments while also addressing medical debt, you have non-exempt assets you want to protect, or you filed Chapter 7 within the last 8 years and need to wait for another discharge.
+
+Ongoing Medical Expenses During Chapter 13
+
+New medical expenses incurred during your 3-5 year plan are not included in the plan. You pay them as they arise. However, your Chapter 13 plan should account for ongoing medical costs in your budget. If medical expenses increase substantially, you can modify your plan to adjust. If the situation becomes unmanageable, you can convert to Chapter 7 in many cases.
+
+Frequently Asked Questions
+
+Can medical providers object to my Chapter 13 plan?
+
+They can but rarely do, because medical debt is unsecured and receives the lowest priority. The court approves plans based on your ability to pay, not creditor preferences.
+
+What if I get a new medical bill during my Chapter 13?
+
+New debts incurred after filing are not part of the plan. You pay them normally. If a major medical event creates unsustainable new debt, consult your attorney about plan modification or conversion to Chapter 7.
+
+How long does Chapter 13 last?
+
+3 years for below-median income filers, 5 years for above-median income filers. Some courts allow flexibility within this range.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code)
+and the Fair Debt Collection Practices Act (15 U.S.C. 1692). District-level statistics from the
+Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
+This is educational content, not legal advice.
+
+Related Guides
+
+1099-C Canceled Debt Guide
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+Credit Card Forgiveness Options
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on medical debt and bankruptcy:
+
+No Surprises Act
+HHS surprise billing protections
+
+CFPB: Medical Debt
+CFPB resources
+
+CFPB Medical Debt Rule
+2025 rule
+
+IRS: Charity Care (501(r))
+Hospital financial assistance
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Medical Debt Research
+Google Scholar
+
+KFF Medical Debt Data
+Kaiser Family Foundation
+
+Related Guides
+
+Medical Bills in Bankruptcy
+
+Medical debt is fully dischargeable
+
+medicalbillbankruptcy.com →
+
+Taxes and Bankruptcy
+
+Free bankruptcy information guide
+
+bankruptcytaxes.org →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+Medical Debt Rights
+
+Free bankruptcy information guide
+
+medicaldebtrights.com →
+
+People Also Ask
+
+Can medical debt be discharged in bankruptcy?
+
+Should I file bankruptcy for medical bills?
+
+Does medical debt affect your credit score?
+
+View all questions →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loan Forgiveness Programs -- studentloanforgive.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener\n Open Bankruptcy Project\n Ch.7 vs Ch.13\n Bankruptcy Cost\n Automatic Stay\n 341 Meeting\n Exemptions by State\n Means Test\n File Without a Lawyer\n Rebuild Credit\n medicaldebtbankruptcy.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Chapter 7 Bankruptcy for Medical Debt
+Source: https://medicaldebtbankruptcy.com/chapter-7-medical-debt.html
+
+Chapter 7 Bankruptcy for Medical Debt
+
+Eliminating Medical Bills in 90 Days
+
+← Back to medicaldebtbankruptcy.com
+
+Medical Debt Is Fully Dischargeable
+
+Medical debt is unsecured debt that is fully dischargeable in Chapter 7 bankruptcy. There is no limit to the amount of medical debt you can eliminate. Whether it is $5,000 or $500,000, Chapter 7 wipes it out. The discharge also covers medical debt in collections, medical debt subject to lawsuits, and medical debt with judgments.
+
+Eligibility
+
+To file Chapter 7, you must pass the means test. If your income is below your state's median, you automatically qualify. If above, you may still qualify after deducting allowed expenses. Medical expenses are an allowable deduction on the means test, which helps people with high healthcare costs qualify even with above-median income. SSDI and SSI are excluded from the calculation.
+
+The Timeline
+
+Filing to discharge takes approximately 90 days. Day 1: File the petition. The automatic stay immediately stops all collection. Day 30-40: 341 meeting with the trustee (brief, often 5 minutes). Day 60: Deadline for objections. Day 90: Discharge entered, case closed. Medical providers cannot contact you again about discharged debts.
+
+What You Keep
+
+Most Chapter 7 filers keep everything they own. State exemptions protect your home (homestead exemption), vehicle (up to a dollar amount), retirement accounts (fully exempt), household goods, clothing, and tools of your trade. Medical equipment and disability-related property are typically fully exempt.
+
+Frequently Asked Questions
+
+Will I lose my house or car?
+
+Most filers keep both. Exemptions protect your home equity and vehicle value. If you are current on payments and within exemption limits, you keep your property.
+
+Can I still see my doctor after filing?
+
+Yes. A medical provider cannot refuse to see you solely because you discharged their debt in bankruptcy. Emergency care is always available under EMTALA regardless.
+
+How much does Chapter 7 cost?
+
+Filing fee is $338 (waivable for low income). Attorney fees range from $1,000-$2,500. Filing without a lawyer reduces cost to just the filing fee.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code)
+and the Fair Debt Collection Practices Act (15 U.S.C. 1692). District-level statistics from the
+Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
+This is educational content, not legal advice.
+
+Related Guides
+
+1099-C Canceled Debt Guide
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+Credit Card Forgiveness Options
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on medical debt and bankruptcy:
+
+No Surprises Act
+HHS surprise billing protections
+
+CFPB: Medical Debt
+CFPB resources
+
+CFPB Medical Debt Rule
+2025 rule
+
+IRS: Charity Care (501(r))
+Hospital financial assistance
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Medical Debt Research
+Google Scholar
+
+KFF Medical Debt Data
+Kaiser Family Foundation
+
+Related Guides
+
+Medical Bills in Bankruptcy
+
+Medical debt is fully dischargeable
+
+medicalbillbankruptcy.com →
+
+Taxes and Bankruptcy
+
+Free bankruptcy information guide
+
+bankruptcytaxes.org →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+Medical Debt Rights
+
+Free bankruptcy information guide
+
+medicaldebtrights.com →
+
+People Also Ask
+
+Can medical debt be discharged in bankruptcy?
+
+Should I file bankruptcy for medical bills?
+
+Does medical debt affect your credit score?
+
+View all questions →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener\n Open Bankruptcy Project\n Ch.7 vs Ch.13\n Bankruptcy Cost\n Automatic Stay\n 341 Meeting\n Exemptions by State\n Means Test\n File Without a Lawyer\n Rebuild Credit\n medicaldebtbankruptcy.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Medical Debt Credit Reporting Changes
+Source: https://medicaldebtbankruptcy.com/credit-reporting-changes.html
+
+Medical Debt Credit Reporting Changes
+
+New Rules That Protect Your Credit Score
+
+← Back to medicaldebtbankruptcy.com
+
+The 2023 Changes
+
+Starting in 2023, the three major credit bureaus (Equifax, Experian, TransUnion) implemented major changes: (1) Paid medical collections are removed from credit reports. (2) Unpaid medical collections under $500 are excluded. (3) New medical collections do not appear until one year after the first delinquency (up from 6 months). These changes removed an estimated 70% of medical collections from credit reports.
+
+What Still Appears
+
+Unpaid medical collections over $500 that are more than one year old still appear on credit reports. Medical debt that has progressed to a court judgment still appears. Non-collection medical accounts (like a medical credit card or medical personal loan) are reported normally. If you charged medical expenses on a regular credit card, that is credit card debt, not medical debt, for reporting purposes.
+
+Impact on Credit Scores
+
+FICO 9 and VantageScore 4.0 exclude paid medical collections from score calculations entirely. FICO 10 and FICO 10T also reduce the impact of medical collections. Older scoring models (still used by some lenders) may still count medical collections. The net effect: medical debt has significantly less impact on credit scores than it did before 2023.
+
+Disputing Medical Debt on Your Credit Report
+
+Check all three credit reports at annualcreditreport.com. If you find medical collections that should have been removed (paid, under $500, or less than one year old), dispute them directly with each bureau. The bureau has 30 days to investigate and respond. If the debt is inaccurate or cannot be verified, it must be removed. Include documentation (payment receipts, hospital records).
+
+Frequently Asked Questions
+
+Will medical debt affect my ability to get a mortgage?
+
+The impact is significantly reduced under new rules. FHFA (which oversees Fannie Mae and Freddie Mac) announced that medical collections will not be considered in mortgage underwriting. VA and FHA loans also have favorable treatment of medical debt.
+
+Can a hospital report medical debt immediately?
+
+No. Under the new rules, medical collections cannot appear on credit reports until at least one year after the first delinquency. This gives you a full year to negotiate, apply for charity care, or set up a payment plan without credit damage.
+
+Does this apply to medical credit cards like CareCredit?
+
+No. Medical credit cards are reported as regular credit card accounts, not medical debt. The medical debt protections only apply to direct medical bills and medical collections.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code)
+and the Fair Debt Collection Practices Act (15 U.S.C. 1692). District-level statistics from the
+Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
+This is educational content, not legal advice.
+
+Related Guides
+
+1099-C Canceled Debt Guide
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+Credit Card Forgiveness Options
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on medical debt and bankruptcy:
+
+No Surprises Act
+HHS surprise billing protections
+
+CFPB: Medical Debt
+CFPB resources
+
+CFPB Medical Debt Rule
+2025 rule
+
+IRS: Charity Care (501(r))
+Hospital financial assistance
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Medical Debt Research
+Google Scholar
+
+KFF Medical Debt Data
+Kaiser Family Foundation
+
+Related Guides
+
+Medical Bills in Bankruptcy
+
+Medical debt is fully dischargeable
+
+medicalbillbankruptcy.com →
+
+Taxes and Bankruptcy
+
+Free bankruptcy information guide
+
+bankruptcytaxes.org →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+Medical Debt Rights
+
+Free bankruptcy information guide
+
+medicaldebtrights.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener\n Open Bankruptcy Project\n Ch.7 vs Ch.13\n Bankruptcy Cost\n Automatic Stay\n 341 Meeting\n Exemptions by State\n Means Test\n File Without a Lawyer\n Rebuild Credit\n medicaldebtbankruptcy.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Hospital Charity Care Programs -- Medical Debt
+Source: https://medicaldebtbankruptcy.com/hospital-charity-care.html
+
+Hospital Charity Care Programs
+
+Free and Reduced-Cost Hospital Bills
+
+← Back to medicaldebtbankruptcy.com
+
+Legal Requirements
+
+Under the Affordable Care Act, nonprofit hospitals (about 60% of U.S. hospitals) must have written financial assistance policies, publicize them widely, and screen patients for eligibility before pursuing extraordinary collection actions. This is not optional -- it is federal law. Many hospitals fail to adequately publicize their programs, which is why millions of eligible patients never apply.
+
+What Charity Care Covers
+
+Charity care can cover: emergency room visits, inpatient stays, outpatient procedures, laboratory tests, imaging, and sometimes prescriptions. Coverage levels vary: some hospitals forgive 100% for patients below 200% of the federal poverty level and offer sliding scale discounts up to 400% FPL. A family of 4 earning up to $124,800 (400% FPL) may qualify for some reduction.
+
+How to Apply
+
+Ask the hospital billing department for a financial assistance application. You can apply before or after treatment, and even after the bill goes to collections. Provide: proof of income (pay stubs, tax return, benefit letter), ID, proof of household size, and proof of expenses. Processing takes 2-4 weeks. While the application is pending, the hospital should not pursue collection.
+
+If the Hospital Denies Your Application
+
+Appeal the denial with additional documentation. Contact your state's hospital licensing agency if the hospital is not following its own financial assistance policy. File a complaint with the IRS (Form 13909) if a nonprofit hospital is not meeting ACA requirements. Consider legal aid assistance -- some organizations specialize in hospital billing disputes.
+
+Frequently Asked Questions
+
+Can I apply for charity care after my bill went to collections?
+
+Yes. Many hospitals will still process charity care applications even after referring the debt to a collector. Under the ACA, nonprofit hospitals must make reasonable efforts to screen for charity care eligibility before sending bills to collections.
+
+Does charity care apply to for-profit hospitals?
+
+For-profit hospitals are not required to offer charity care under the ACA, but many have voluntary financial assistance programs. Always ask -- the worst they can say is no.
+
+Will charity care affect my credit?
+
+No. Receiving charity care has no negative credit impact. If the bill was already reported to credit bureaus, the hospital should update the reporting once charity care is applied.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code)
+and the Fair Debt Collection Practices Act (15 U.S.C. 1692). District-level statistics from the
+Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
+This is educational content, not legal advice.
+
+Related Guides
+
+1099-C Canceled Debt Guide
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+Credit Card Forgiveness Options
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on medical debt and bankruptcy:
+
+No Surprises Act
+HHS surprise billing protections
+
+CFPB: Medical Debt
+CFPB resources
+
+CFPB Medical Debt Rule
+2025 rule
+
+IRS: Charity Care (501(r))
+Hospital financial assistance
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Medical Debt Research
+Google Scholar
+
+KFF Medical Debt Data
+Kaiser Family Foundation
+
+Related Guides
+
+Medical Bills in Bankruptcy
+
+Medical debt is fully dischargeable
+
+medicalbillbankruptcy.com →
+
+Taxes and Bankruptcy
+
+Free bankruptcy information guide
+
+bankruptcytaxes.org →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+Medical Debt Rights
+
+Free bankruptcy information guide
+
+medicaldebtrights.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener\n Open Bankruptcy Project\n Ch.7 vs Ch.13\n Bankruptcy Cost\n Automatic Stay\n 341 Meeting\n Exemptions by State\n Means Test\n File Without a Lawyer\n Rebuild Credit\n medicaldebtbankruptcy.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Medical Debt in Bankruptcy -- Discharge Guide [2026]
+Source: https://medicaldebtbankruptcy.com/
+
+🌐 Esta pagina esta disponible en Espanol
+
+Medical Debt in Bankruptcy
+
+Your Rights When Medical Bills Become Unmanageable
+
+What Is Medical Debt Bankruptcy?
+
+Medical debt is the leading cause of bankruptcy in America. Over 60% of all personal bankruptcies involve medical bills, and even insured families can face catastrophic costs from a single hospitalization. If medical debt is destroying your finances, bankruptcy offers a legal path to eliminate it entirely.
+
+Unlike student loans or tax debts, medical debt is fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy. There are no special rules or exceptions -- hospital bills, doctor bills, ambulance charges, lab fees, and prescription costs can all be wiped out.
+
+How Much Medical Debt Can Bankruptcy Eliminate?
+
+There is no cap. Whether you owe $5,000 or $500,000 in medical bills, bankruptcy can discharge the entire amount. Chapter 7 eliminates the debt in about 90 days. Chapter 13 lets you pay a fraction over 3-5 years based on your income, then discharges the rest.
+
+Common medical debts discharged in bankruptcy include hospital stays, emergency room visits, surgical procedures, cancer treatment, physical therapy, mental health services, dental work, and prescription medications.
+
+Should You File Bankruptcy for Medical Debt?
+
+Before filing, consider these alternatives: Negotiate directly -- hospitals routinely accept 20-40% of the original bill. Apply for charity care -- nonprofit hospitals are required to have financial assistance programs. Check for billing errors -- medical billing errors occur in up to 80% of hospital bills. Request an itemized bill -- you have a right to see every charge.
+
+File bankruptcy when: medical debt exceeds your annual income, collectors are garnishing wages, you face lawsuits, or medical debt is combined with other overwhelming debts. Take the means test to see if you qualify for Chapter 7.
+
+The No Surprises Act and Medical Debt
+
+The No Surprises Act (effective January 2022) protects you from surprise medical bills for emergency services and certain out-of-network care at in-network facilities. If you received a surprise bill before this law took effect, those charges may still be dischargeable in bankruptcy.
+
+Key protections: emergency services must be billed at in-network rates regardless of provider status, you cannot be balance-billed for ancillary services at in-network facilities, and insurers must cover emergency services without prior authorization.
+
+Medical Debt and Your Credit Report
+
+Since July 2022, the three major credit bureaus removed paid medical collections from credit reports. Medical debt under $500 no longer appears on credit reports at all. Unpaid medical collections now have a one-year waiting period before reporting.
+
+However, medical debt that goes to judgment or results in a lien still damages your credit significantly. Filing bankruptcy stops this progression and gives you a clean slate to rebuild your credit.
+
+Protecting Your Assets in Medical Debt Bankruptcy
+
+Most people who file Chapter 7 for medical debt keep everything they own. State exemptions protect your home, car, retirement accounts, and personal property. Chapter 13 lets you keep all assets while paying what you can afford over 3-5 years.
+
+Medical debt is unsecured -- creditors cannot repossess your body. They can, however, sue for a judgment, garnish wages, and levy bank accounts. Bankruptcy stops all of this through the automatic stay protection in bankruptcy.
+
+Step-by-Step: Filing Bankruptcy for Medical Debt
+
+1. Gather all medical bills -- request itemized statements from every provider. 2. Check for errors and negotiate -- reduce what you can before filing. 3. Determine your chapter -- Chapter 7 vs. Chapter 13. 4. Complete credit counseling -- required before filing. 5. File the petition -- list all medical creditors. 6. Attend the 341 meeting -- what to expect. 7. Receive your discharge -- medical debt eliminated.
+
+You can file without a lawyer or find an attorney. Bankruptcy costs range from $338 (Chapter 7 filing fee) to $2,000+ with an attorney.
+
+Medical Debt Bankruptcy and Your Spouse
+
+In common law property states, your spouse is generally not liable for your medical debt unless they co-signed or guaranteed payment. In community property states (AZ, CA, ID, LA, NV, NM, TX, WA, WI), medical debt incurred during marriage may be a community obligation.
+
+You can file bankruptcy individually without your spouse. A codebtor stay in Chapter 13 can protect a co-signing spouse from collection.
+
+Explore More Topics
+
+Chapter 7 Bankruptcy for Medical Debt\n Chapter 13 Bankruptcy for Medical Debt\n Hospital Charity Care Programs\n Negotiating Medical Bills\n The No Surprises Act\n Medical Debt Credit Reporting Changes\n When Hospitals and Collectors Sue for Medical Debt\n Bankruptcy Exemptions and Medical Assets\n Life After Medical Debt Discharge
+
+Frequently Asked Questions
+
+Can I still go to the same doctor after bankruptcy?
+
+Yes. Medical providers cannot refuse to treat you solely because you discharged their bills in bankruptcy. Emergency rooms are always required to treat you regardless. However, a private practice may decline to continue an ongoing relationship.
+
+Will bankruptcy stop medical wage garnishment?
+
+Yes, immediately. The automatic stay halts all garnishment the moment you file. In Chapter 7, the underlying debt is discharged in about 90 days. Any garnished wages taken before filing generally cannot be recovered.
+
+What if I have ongoing medical treatment?
+
+Bankruptcy discharges past medical debt but not future charges. If you need ongoing treatment, discuss timing with your attorney. Some people wait until a course of treatment ends before filing to capture all the bills.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code)
+and the Fair Debt Collection Practices Act (15 U.S.C. 1692). District-level statistics from the
+Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
+This is educational content, not legal advice.
+
+Related Guides
+
+1099-C Canceled Debt Guide
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+Credit Card Forgiveness Options
+
+462+ Court Documents Freed from PACER
+
+We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+
+$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on medical debt and bankruptcy:
+
+No Surprises Act
+HHS surprise billing protections
+
+CFPB: Medical Debt
+CFPB resources
+
+CFPB Medical Debt Rule
+2025 rule
+
+IRS: Charity Care (501(r))
+Hospital financial assistance
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Medical Debt Research
+Google Scholar
+
+KFF Medical Debt Data
+Kaiser Family Foundation
+
+Related Guides
+
+Medical Bills in Bankruptcy
+
+Medical debt is fully dischargeable
+
+medicalbillbankruptcy.com →
+
+Taxes and Bankruptcy
+
+Free bankruptcy information guide
+
+bankruptcytaxes.org →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+Medical Debt Rights
+
+Free bankruptcy information guide
+
+medicaldebtrights.com →
+
+Your Next Questions
+
+Real users ask these next -- we built the answers.
+
+Chapter 7 vs Chapter 13
+
+Which chapter addresses your type of debt?
+
+chapter7vs13.org →
+
+How Much Does It Cost?
+
+Filing fees and attorney costs by chapter
+
+howmuchdoesbankruptcycost.com →
+
+The Automatic Stay
+
+How filing immediately stops collections
+
+automaticstay.org →
+
+How Discharge Works
+
+Which debts get wiped and which survive
+
+bankruptcydischarge.org →
+
+State Bankruptcy Guides
+
+Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.
+
+California · Texas · Florida · New York · Illinois · Ohio
+
+Browse All 50 State Guides →
+
+📖 Bankruptcy Glossary -- 61 terms explained
+
+Filing in Your State?
+
+Exemptions vary dramatically by state. Check what you can protect.
+
+Browse Your State's Exemptions →
+
+People Also Ask
+
+Can medical debt be discharged in bankruptcy?
+
+Should I file bankruptcy for medical bills?
+
+Does medical debt affect your credit score?
+
+View all questions →
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loan Forgiveness Programs -- studentloanforgive.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+medicaldebtbankruptcy.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Life After Medical Debt Discharge
+Source: https://medicaldebtbankruptcy.com/life-after-discharge.html
+
+Life After Medical Debt Discharge
+
+Rebuilding After Bankruptcy Eliminates Medical Bills
+
+← Back to medicaldebtbankruptcy.com
+
+Immediate Relief
+
+The moment your discharge order is entered, all medical debt listed in your bankruptcy is permanently eliminated. Collectors must stop all contact. Lawsuits are dismissed. Garnishments stop. Bank levies are released. The phone stops ringing. For many people, the emotional relief is as significant as the financial relief. You can begin focusing on your health instead of your bills.
+
+Rebuilding Credit
+
+Credit rebuilding can begin immediately. Most people see score improvements within 6-12 months. Steps: (1) Get a secured credit card ($200-$500 deposit). (2) Use it for small purchases and pay in full monthly. (3) Apply for a credit-builder loan from a credit union. (4) Ensure all ongoing bills are paid on time. (5) Monitor your credit report for discharged debts that should show $0 balance.
+
+Accessing Medical Care
+
+Hospitals and doctors cannot refuse treatment because you discharged their debt in bankruptcy. Emergency rooms must treat you regardless (EMTALA). Some providers may require prepayment or may not offer payment plans after a discharge, but they cannot deny care. You may want to establish new provider relationships if your old providers are uncomfortable.
+
+Long-Term Financial Health
+
+Bankruptcy eliminates the debt but does not eliminate the underlying medical costs. Build a plan for managing future medical expenses: maximize insurance benefits, use HSAs and FSAs, apply for charity care proactively, negotiate before the bill arrives when possible, and build an emergency fund. Many filers find that without the weight of old medical debt, they can manage current expenses much more effectively.
+
+Frequently Asked Questions
+
+How long does bankruptcy stay on my credit report?
+
+Chapter 7 stays for 10 years; Chapter 13 for 7 years. However, the impact on your score decreases significantly over time, and many people have good credit within 2-3 years of discharge.
+
+Can a doctor refuse to see me after discharge?
+
+Non-emergency providers can decline new patients but generally cannot refuse to continue treating an existing patient without proper notice and referral. Emergency rooms must treat everyone regardless.
+
+What if a collector contacts me about discharged medical debt?
+
+This violates the discharge injunction. Send them a copy of your discharge order. If they persist, contact your bankruptcy attorney -- the collector can be held in contempt of court.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code)
+and the Fair Debt Collection Practices Act (15 U.S.C. 1692). District-level statistics from the
+Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
+This is educational content, not legal advice.
+
+Related Guides
+
+1099-C Canceled Debt Guide
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+Credit Card Forgiveness Options
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on medical debt and bankruptcy:
+
+No Surprises Act
+HHS surprise billing protections
+
+CFPB: Medical Debt
+CFPB resources
+
+CFPB Medical Debt Rule
+2025 rule
+
+IRS: Charity Care (501(r))
+Hospital financial assistance
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Medical Debt Research
+Google Scholar
+
+KFF Medical Debt Data
+Kaiser Family Foundation
+
+Related Guides
+
+Medical Bills in Bankruptcy
+
+Medical debt is fully dischargeable
+
+medicalbillbankruptcy.com →
+
+Taxes and Bankruptcy
+
+Free bankruptcy information guide
+
+bankruptcytaxes.org →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+Medical Debt Rights
+
+Free bankruptcy information guide
+
+medicaldebtrights.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loan Forgiveness Programs -- studentloanforgive.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener\n Open Bankruptcy Project\n Ch.7 vs Ch.13\n Bankruptcy Cost\n Automatic Stay\n 341 Meeting\n Exemptions by State\n Means Test\n File Without a Lawyer\n Rebuild Credit\n medicaldebtbankruptcy.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## When Hospitals and Collectors Sue for Medical Debt
+Source: https://medicaldebtbankruptcy.com/medical-debt-lawsuits.html
+
+When Hospitals and Collectors Sue for Medical Debt
+
+Responding to a Medical Debt Lawsuit
+
+← Back to medicaldebtbankruptcy.com
+
+You Must Respond
+
+If served with a lawsuit for medical debt, you MUST file a written response (called an 'answer') by the deadline stated in the papers (typically 20-30 days). If you do not respond, the court enters a default judgment against you, and the creditor can begin garnishing wages and levying bank accounts. Even if you owe the money, respond to preserve your rights and defenses.
+
+Common Defenses
+
+Statute of limitations (debt is too old to sue on -- check your state's limit). Wrong amount (billing errors, double-counting, charges after insurance should have paid). Wrong person (identity confusion, incorrect account). Hospital failed to offer charity care as required by the ACA. Debt was already discharged in bankruptcy. Insurance should have covered the charges.
+
+Settlement Before Trial
+
+Most medical debt lawsuits settle before trial. Once you file an answer, you can negotiate. Hospitals and collectors often accept 30-60% of the claimed amount. Payment plans are common. Some courts have mandatory mediation for debt cases. Having an attorney dramatically improves settlement outcomes.
+
+Bankruptcy Stops the Lawsuit
+
+Filing bankruptcy immediately stops any pending lawsuit through the automatic stay. If you are overwhelmed by medical debt lawsuits, bankruptcy may be the most efficient solution -- it stops all lawsuits simultaneously and eliminates the underlying debt. You do not need to defend each case individually.
+
+Frequently Asked Questions
+
+What happens if I ignore the lawsuit?
+
+The court enters a default judgment. The creditor can then garnish your wages (up to 25% in most states) and levy your bank accounts. Always respond to a lawsuit, even if you owe the debt.
+
+Can I get free legal help for a medical debt lawsuit?
+
+Yes. Legal aid offices and pro bono programs help with debt defense cases. Some consumer attorneys take defense cases on contingency if there are FDCPA or billing violations. Check lsc.gov for local legal aid.
+
+How long does a medical debt judgment last?
+
+10-20 years depending on the state, and judgments can usually be renewed. This is why responding to the lawsuit and considering bankruptcy are both important -- a judgment follows you for a long time.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code)
+and the Fair Debt Collection Practices Act (15 U.S.C. 1692). District-level statistics from the
+Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
+This is educational content, not legal advice.
+
+Related Guides
+
+1099-C Canceled Debt Guide
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+Credit Card Forgiveness Options
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on medical debt and bankruptcy:
+
+No Surprises Act
+HHS surprise billing protections
+
+CFPB: Medical Debt
+CFPB resources
+
+CFPB Medical Debt Rule
+2025 rule
+
+IRS: Charity Care (501(r))
+Hospital financial assistance
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Medical Debt Research
+Google Scholar
+
+KFF Medical Debt Data
+Kaiser Family Foundation
+
+Related Guides
+
+Medical Bills in Bankruptcy
+
+Medical debt is fully dischargeable
+
+medicalbillbankruptcy.com →
+
+Taxes and Bankruptcy
+
+Free bankruptcy information guide
+
+bankruptcytaxes.org →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+Medical Debt Rights
+
+Free bankruptcy information guide
+
+medicaldebtrights.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener\n Open Bankruptcy Project\n Ch.7 vs Ch.13\n Bankruptcy Cost\n Automatic Stay\n 341 Meeting\n Exemptions by State\n Means Test\n File Without a Lawyer\n Rebuild Credit\n medicaldebtbankruptcy.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Negotiating Medical Bills -- Medical Debt
+Source: https://medicaldebtbankruptcy.com/negotiating-medical-bills.html
+
+Negotiating Medical Bills
+
+How to Reduce What You Owe
+
+← Back to medicaldebtbankruptcy.com
+
+Start With the Itemized Bill
+
+Request an itemized bill showing every charge with CPT/HCPCS codes. Studies show up to 80% of medical bills contain errors. Common errors: duplicate charges, charges for services not received, incorrect procedure codes (upcoding), facility fees billed separately, and charges for items covered by insurance. Correcting errors alone can reduce bills by 10-50%.
+
+Know the Fair Price
+
+Use tools like Healthcare Bluebook, FAIR Health, or Medicare's physician fee schedule to find the fair market price for your procedures. Many hospital charges are 3-10x the Medicare rate. Armed with fair price data, you have a factual basis for negotiation. You can say: 'The Medicare rate for this procedure is $2,500 and you are charging $12,000.'
+
+Negotiation Scripts
+
+Cash-pay discount: 'I am paying out of pocket. What cash-pay discount do you offer?' (Ask for 40-60% off.) Hardship: 'I am experiencing financial hardship and cannot afford this bill. Can you reduce it?' Lump-sum settlement: 'I can pay $X today if you will accept it as payment in full.' Payment plan: 'Can we set up a 0% interest payment plan of $X per month?' Always negotiate before paying anything.
+
+After Negotiation
+
+Get any agreement in writing before sending payment. Keep records of all conversations (dates, names, amounts discussed). If you cannot negotiate a satisfactory reduction and the debt is overwhelming, bankruptcy eliminates medical debt. Medical debt is the #1 reason Americans file bankruptcy -- there is no shame in using the legal system designed for this situation.
+
+Frequently Asked Questions
+
+Can I negotiate after the bill went to collections?
+
+Yes. The collection agency bought the debt for pennies on the dollar. They are often willing to settle for 20-40% of the original amount. Know your FDCPA rights when dealing with collectors.
+
+Will negotiating my bill hurt my credit?
+
+No. Negotiating a bill does not affect your credit. A 'settled for less' notation may appear, but this is far less damaging than an unpaid collection account.
+
+Should I use a medical billing advocate?
+
+For large bills ($10,000+), a professional medical billing advocate can be worth the cost (typically 25-35% of savings). For smaller bills, you can negotiate effectively yourself using the strategies above.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code)
+and the Fair Debt Collection Practices Act (15 U.S.C. 1692). District-level statistics from the
+Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
+This is educational content, not legal advice.
+
+Related Guides
+
+1099-C Canceled Debt Guide
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+Credit Card Forgiveness Options
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on medical debt and bankruptcy:
+
+No Surprises Act
+HHS surprise billing protections
+
+CFPB: Medical Debt
+CFPB resources
+
+CFPB Medical Debt Rule
+2025 rule
+
+IRS: Charity Care (501(r))
+Hospital financial assistance
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Medical Debt Research
+Google Scholar
+
+KFF Medical Debt Data
+Kaiser Family Foundation
+
+Related Guides
+
+Medical Bills in Bankruptcy
+
+Medical debt is fully dischargeable
+
+medicalbillbankruptcy.com →
+
+Taxes and Bankruptcy
+
+Free bankruptcy information guide
+
+bankruptcytaxes.org →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+Medical Debt Rights
+
+Free bankruptcy information guide
+
+medicaldebtrights.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener\n Open Bankruptcy Project\n Ch.7 vs Ch.13\n Bankruptcy Cost\n Automatic Stay\n 341 Meeting\n Exemptions by State\n Means Test\n File Without a Lawyer\n Rebuild Credit\n medicaldebtbankruptcy.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## The No Surprises Act -- Medical Debt
+Source: https://medicaldebtbankruptcy.com/no-surprises-act.html
+
+The No Surprises Act
+
+Protection From Surprise Medical Bills
+
+← Back to medicaldebtbankruptcy.com
+
+What the Law Covers
+
+The No Surprises Act (effective January 2022) protects you from surprise bills in three situations: (1) emergency services at any facility, (2) non-emergency services at in-network facilities by out-of-network providers (like an anesthesiologist you did not choose), and (3) air ambulance services. In these situations, you pay only your in-network cost-sharing amount -- the provider and insurer must work out the rest between themselves.
+
+Emergency Services
+
+For emergency care, you are protected at any emergency room or freestanding emergency facility, regardless of whether it is in your insurance network. You pay your in-network deductible, copay, and coinsurance. The provider cannot bill you for the difference between their charge and your in-network rate. This protection continues until you can be safely transferred to an in-network facility.
+
+Scheduled Care at In-Network Facilities
+
+If you schedule surgery at an in-network hospital and an out-of-network surgeon, anesthesiologist, or pathologist treats you without your advance consent, you are protected. The out-of-network provider must accept your in-network rate and cannot balance bill you. If you do consent to out-of-network care in advance (with proper notice 72 hours before), the protection may not apply.
+
+Dispute Process
+
+If you receive a surprise bill that should be covered by the No Surprises Act, contact your insurer and the provider, citing the NSA. If not resolved, file a complaint with the No Surprises Help Desk (1-800-985-3059) or at cms.gov/nosurprises. You can also use the independent dispute resolution (IDR) process if the provider and insurer cannot agree on the payment amount.
+
+Frequently Asked Questions
+
+Does the No Surprises Act apply to ground ambulances?
+
+No. Ground ambulance services are currently excluded from the No Surprises Act. Only air ambulance services are covered. Ground ambulance billing reform is being addressed separately.
+
+What if I already paid a surprise bill?
+
+You may be entitled to a refund. Contact the provider and your insurer, citing the No Surprises Act. If they refuse, file a complaint with the No Surprises Help Desk.
+
+Does this apply to people without insurance?
+
+For uninsured and self-pay patients, the NSA requires providers to give a good faith estimate of costs before scheduled services. If the actual bill exceeds the estimate by $400+, you can dispute it through the patient-provider dispute resolution process.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code)
+and the Fair Debt Collection Practices Act (15 U.S.C. 1692). District-level statistics from the
+Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
+This is educational content, not legal advice.
+
+Related Guides
+
+1099-C Canceled Debt Guide
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+Credit Card Forgiveness Options
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on medical debt and bankruptcy:
+
+No Surprises Act
+HHS surprise billing protections
+
+CFPB: Medical Debt
+CFPB resources
+
+CFPB Medical Debt Rule
+2025 rule
+
+IRS: Charity Care (501(r))
+Hospital financial assistance
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Medical Debt Research
+Google Scholar
+
+KFF Medical Debt Data
+Kaiser Family Foundation
+
+Related Guides
+
+Medical Bills in Bankruptcy
+
+Medical debt is fully dischargeable
+
+medicalbillbankruptcy.com →
+
+Taxes and Bankruptcy
+
+Free bankruptcy information guide
+
+bankruptcytaxes.org →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+Medical Debt Rights
+
+Free bankruptcy information guide
+
+medicaldebtrights.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loan Forgiveness Programs -- studentloanforgive.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener\n Open Bankruptcy Project\n Ch.7 vs Ch.13\n Bankruptcy Cost\n Automatic Stay\n 341 Meeting\n Exemptions by State\n Means Test\n File Without a Lawyer\n Rebuild Credit\n medicaldebtbankruptcy.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Medical Debt Bankruptcy FAQ -- Discharge Medical Bills
+Source: https://medicaldebtbankruptcy.com/frequently-asked-questions.html
+
+Skip to main content
+
+medicaldebtbankruptcy.com
+
+Home
+FAQ
+Espanol
+
+Medical Debt Bankruptcy FAQ -- Discharge Medical Bills
+
+Common questions about discharging medical debt in bankruptcy, charity care programs, credit reporting changes, and alternatives to filing.
+
+Can medical debt be discharged in bankruptcy?
+
+Yes. Medical debt is unsecured debt that is fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy. There are no special exceptions for medical bills. In Chapter 7, medical debt is eliminated entirely. In Chapter 13, you may pay a portion through your plan.
+
+Should I file bankruptcy for medical bills only?
+
+You can file for medical debt alone, but consider the full picture. If medical bills are your only debt and you have no assets at risk, negotiation or charity care may be better options. If medical debt is combined with other debts, bankruptcy provides comprehensive relief.
+
+How much medical debt justifies filing bankruptcy?
+
+There is no minimum amount. The decision depends on your total financial situation -- income, other debts, and assets. As a general guideline, if medical debt exceeds 30-40% of your annual income and you cannot realistically pay it off within 3-5 years, bankruptcy may be appropriate.
+
+Does medical debt affect your credit score?
+
+Yes, but less than before. Since 2023, paid medical collections are no longer reported to credit bureaus. Unpaid medical debt under $500 is also excluded. Medical debt over $500 in collections still appears but now has a 1-year waiting period before reporting begins.
+
+What is hospital charity care?
+
+Most nonprofit hospitals are required to offer financial assistance (charity care) to patients who cannot pay. Eligibility typically covers patients at 200-400% of the federal poverty level. Charity care can reduce or eliminate your bill entirely. Apply even if the bill is already in collections.
+
+Can I negotiate medical bills before filing bankruptcy?
+
+Yes, and you should try. Hospitals and medical providers often accept 20-50% of the original bill as payment in full. Request an itemized bill first to check for errors. Many providers offer payment plans with no interest. Negotiate before the bill goes to collections for the best results.
+
+Does the No Surprises Act help with medical debt?
+
+The No Surprises Act (effective January 2022) protects against surprise medical bills from out-of-network providers in emergency situations and at in-network facilities. If you received a surprise bill, you may be able to dispute it through the independent dispute resolution process.
+
+Will filing bankruptcy stop medical debt collectors?
+
+Yes. The automatic stay immediately stops all collection activity on medical debt, including phone calls, letters, lawsuits, and wage garnishments. Medical debt collectors who continue contacting you after filing can be held in contempt of court.
+
+Is medical debt from an emergency room visit dischargeable?
+
+Yes. All medical debt is dischargeable in bankruptcy regardless of whether it came from emergency room visits, hospital stays, surgeries, prescriptions, dental work, or mental health treatment. There is no distinction based on the type of medical service.
+
+Can I keep seeing my doctor after filing bankruptcy?
+
+Filing bankruptcy does not prevent you from continuing to see your doctors. However, some private practices may refuse to treat patients who discharged their bills. Hospital emergency rooms cannot refuse treatment regardless of bankruptcy.
+
+What about medical debt from an accident or injury?
+
+Medical debt from accidents and injuries is fully dischargeable. If someone else caused your injury, you may have a personal injury claim that could pay the medical bills. Consult with a personal injury attorney before filing bankruptcy to preserve potential claims.
+
+Does Medicaid pay medical bills retroactively?
+
+In many states, Medicaid can pay medical bills retroactively for up to 3 months before your application date. If you were eligible for Medicaid when you received treatment, apply now -- retroactive coverage could eliminate some or all of your medical debt without bankruptcy.
+
+Can medical debt collectors garnish my wages?
+
+Yes, after obtaining a court judgment. Medical debt collectors can sue you, obtain a judgment, and then garnish your wages (typically 25% of disposable earnings) or levy your bank accounts. Filing bankruptcy stops garnishment through the automatic stay.
+
+What if my medical bills have errors?
+
+Medical billing errors are extremely common -- studies suggest 30-80% of medical bills contain errors. Request an itemized bill, check for duplicate charges, verify that your insurance was properly billed, and dispute any incorrect charges. Correcting errors may significantly reduce what you owe.
+
+Can I file bankruptcy for my spouse's medical debt?
+
+In community property states, you may be liable for your spouse's medical debt. In common law states, you are generally not liable unless you signed as a guarantor. If you are jointly liable, you can file a joint bankruptcy to discharge both spouses' medical debts.
+
+More Resources on This Site
+
+Chapter 7 Medical Debt
+
+Chapter 13 Medical Debt
+
+Hospital Charity Care
+
+Negotiating Medical Bills
+
+Credit Reporting Changes
+
+No Surprises Act
+
+Related Resources
+
+How to File Bankruptcy
+
+Means Test
+
+Nondischargeable Debts
+
+Open Bankruptcy Project
+
+Real information, no strings.
+
+openbankruptcyproject.org
+1328f.com
+chapter7vs13.org
+bankruptcymeanstest.org
+♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+
+---
+
+## Medical Debt Options Compared -- Negotiation, Charity Care, Bankruptcy [2026]
+Source: https://medicaldebtbankruptcy.com/medical-debt-options.html
+
+Esta pagina esta disponible en Espanol
+
+Skip to main content
+
+medicaldebtbankruptcy.com
+|
+Chapter 7
+/
+Chapter 13
+/
+Negotiate
+/
+Charity Care
+/
+Compare Options
+/
+No Surprises Act
+
+Medical Debt: Compare All Your Options
+
+Negotiation, charity care, state protections, the No Surprises Act, and bankruptcy. Side-by-side comparison tables to help you pick the right path.
+
+Master Comparison: All Medical Debt Options
+
+Medical debt is the number one cause of bankruptcy in America. But bankruptcy is not the only option -- and it may not be the first step. This table compares every major path to resolving medical debt.
+
+Factor
+Negotiation
+Charity Care
+Ch. 7 Bankruptcy
+Ch. 13 Bankruptcy
+Doing Nothing
+
+Debt Reduction
+20-50% typical
+50-100% (free care)
+100% discharged
+Partial to 100%
+0% (grows with interest)
+
+Timeline
+Days to weeks
+2-4 weeks for approval
+3-4 months
+3-5 years
+Indefinite
+
+Cost
+$0 (DIY)
+$0
+$1,400-$2,900
+$3,300-$5,300+
+Late fees + interest + court costs if sued
+
+Stops Collection Calls
+Only if you reach agreement
+Yes, if approved
+Yes, immediately (automatic stay)
+Yes, immediately
+No
+
+Stops Lawsuits
+No
+No (but may moot them)
+Yes
+Yes
+No
+
+Credit Impact
+Minimal if settled before collections
+None
+Bankruptcy on report 10 years
+Bankruptcy on report 7 years
+Severe (collections, judgments)
+
+Covers ALL Debts
+Medical only
+Medical only (one provider)
+All unsecured debts
+All debts
+N/A
+
+Eligibility
+Anyone
+Income under 200-400% FPL (varies)
+Must pass means test
+Regular income required
+N/A
+
+Negotiation vs Bankruptcy
+
+Negotiating directly with the hospital or billing department is usually the first step. Many providers will reduce bills significantly, especially for uninsured patients.
+
+FactorNegotiationChapter 7 Bankruptcy
+
+Typical Reduction20-50% of the bill100% discharged
+
+You Still Owe50-80% of original bill$0
+
+Creditor Must AgreeYes -- voluntaryNo -- court order
+
+Other Debts IncludedNo -- medical onlyYes -- credit cards, personal loans, etc.
+
+Time InvestmentHours (phone calls)Weeks to months
+
+Strategy: Always negotiate first. If negotiation reduces the bill to a manageable amount, pay it and avoid bankruptcy. If negotiation fails or your total debts (medical plus everything else) remain overwhelming, Chapter 7 is faster and eliminates everything. See our negotiation guide for scripts and tactics.
+
+Charity Care Programs
+
+Under the Affordable Care Act, nonprofit hospitals must maintain financial assistance policies. These programs can reduce or eliminate bills for qualifying patients -- but you have to ask.
+
+Eligibility: Typically income below 200-400% of federal poverty level (varies by hospital)
+
+Reduction: 50-100% of the bill, depending on income level
+
+How to apply: Ask the billing department for the financial assistance application. Provide proof of income (pay stubs, tax return). Most hospitals must respond within 30 days.
+
+Coverage: Only covers that specific hospital's charges -- not physician groups, labs, or other providers
+
+Key fact: Hospitals are required by law to have these programs but are NOT required to tell you about them. You must ask. Even if you think you earn too much, apply anyway -- many hospitals have generous thresholds.
+
+State Medical Debt Protections
+
+Many states have enacted protections beyond federal law. Key protections to research in your state:
+
+ProtectionWhat It DoesExample States
+
+Interest Rate CapsLimits interest hospitals can charge on unpaid bills (often 0% or prime rate)California, Colorado, New York, Oregon
+
+Garnishment LimitsRestricts or bans wage garnishment for medical debtTexas (no garnishment for medical), Pennsylvania, South Carolina
+
+Charity Care ScreeningRequires hospitals to screen for charity care before sending to collectionsNew Jersey, California, Washington, Illinois
+
+Credit Reporting BansProhibits reporting medical debt to credit bureausColorado (under $500), New York (2025+), California
+
+Surprise Billing ProtectionLimits out-of-network billing beyond the federal No Surprises ActCalifornia, New York, Texas, Florida, Georgia
+
+The No Surprises Act
+
+Effective January 2022, the No Surprises Act protects patients from unexpected medical bills in three key situations:
+
+Emergency services: Out-of-network emergency care must be billed at in-network rates
+
+Non-emergency at in-network facility: If an out-of-network provider treats you at an in-network hospital, your cost is capped at in-network rates
+
+Air ambulance: Out-of-network air ambulance services are limited to in-network rates
+
+Limitation: The No Surprises Act only prevents FUTURE surprise bills. It does not eliminate existing medical debt. If you received a surprise bill after January 1, 2022, you can dispute it through the provider or file a complaint at cms.gov/nosurprises.
+
+Overwhelmed by Medical Bills?
+
+Check if bankruptcy could give you a fresh start -- free, anonymous, no attorney needed.
+
+Free Eligibility Screener
+Ch. 7 vs 13 Table
+
+Related Guides
+
+How to Negotiate Medical Bills -- scripts and tactics
+
+Hospital Charity Care Programs -- how to apply
+
+The No Surprises Act Explained
+
+Chapter 7 for Medical Debt
+
+Chapter 13 for Medical Debt
+
+Medical Debt Credit Reporting Changes
+
+Compare All Debt Relief Options
+
+Know Your Medical Debt Rights
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Medical Debt Rights
+Medical Bill Bankruptcy
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Additional FAQ Pages
+
+
+### Can medical debt be discharged in bankruptcy? -- Medical Debt and Bankruptcy
+Source: https://medicaldebtbankruptcy.com/paa/can-medical-debt-be-discharged-in-bankruptcy.html
+
+Skip to content
+
+medicaldebtbankruptcy.com
+
+Home
+Questions
+
+Home › Common Questions › Can medical debt be discharged in bankruptcy?
+
+People Also Ask
+
+Can medical debt be discharged in bankruptcy?
+
+Yes. Medical debt is fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy. It is classified as general unsecured debt -- the same category as credit cards. There are no special requirements or restrictions for discharging medical bills. Medical debt is the leading cause of bankruptcy in the United States.
+
+Medical debt is one of the easiest types of debt to discharge in bankruptcy. Here is what you need to know.
+
+Medical Debt in Chapter 7
+
+In Chapter 7, medical bills are eliminated completely when you receive your discharge -- typically 3-4 months after filing. There is no partial repayment, no negotiation, and no special procedures. You list the medical providers on your schedules as unsecured creditors, and the discharge wipes the slate clean.
+
+Medical Debt in Chapter 13
+
+In Chapter 13, medical bills are general unsecured claims. They are paid the same percentage as other unsecured creditors through your repayment plan. In many Chapter 13 plans, unsecured creditors receive little or nothing (0-10%). The remaining balance is discharged when you complete the plan.
+
+Scale of the Problem
+
+Medical debt is the number one cause of bankruptcy in America. Studies estimate that 62-66% of all bankruptcy filings involve medical debt as a contributing factor. The average medical debt in bankruptcy cases exceeds $5,000, but many cases involve $50,000-$100,000+ in hospital bills from a single event.
+
+Alternatives to Consider First
+
+Negotiate directly: Hospitals often accept 40-60% of the billed amount for cash payment
+
+Charity care: Nonprofit hospitals are required to have financial assistance programs
+
+Payment plans: Most providers offer interest-free payment plans
+
+Credit report removal: Medical debt under $500 no longer appears on credit reports (2023 rule)
+
+Statute of limitations: Check whether the debt is time-barred in your state
+
+If medical debt is combined with other debts and the total burden is unsustainable, bankruptcy provides a comprehensive solution.
+
+Related Guides
+
+Index
+
+Chapter 7 Medical Debt
+
+Chapter 13 Medical Debt
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+openbankruptcyproject.org
+♥ Sponsor
+
+Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+
+### Does medical debt affect your credit score? -- Medical Debt and Bankruptcy
+Source: https://medicaldebtbankruptcy.com/paa/does-medical-debt-affect-your-credit-score.html
+
+Skip to content
+
+medicaldebtbankruptcy.com
+
+Home
+Questions
+
+Home › Common Questions › Does medical debt affect your credit score?
+
+People Also Ask
+
+Does medical debt affect your credit score?
+
+Medical debt has less credit impact than it used to. Since 2023, medical debt under $500 no longer appears on credit reports, and paid medical debt is removed immediately. Unpaid medical debt over $500 still appears after one year and can lower your score, but credit scoring models now weight medical debt less heavily than other types.
+
+The credit reporting rules for medical debt have changed significantly in recent years, generally in consumers' favor.
+
+Current Rules (2023+)
+
+Medical debt under $500 does not appear on credit reports regardless of status
+
+Paid medical collections are removed from credit reports immediately
+
+Unpaid medical debt does not appear on credit reports until it has been in collections for at least one year (previously 6 months)
+
+Medical debt in active payment plans may not be reported at all
+
+Impact on Credit Scores
+
+When medical debt does appear on your credit report, modern credit scoring models (FICO 9, VantageScore 3.0/4.0) treat it differently than other debt. These models:
+
+Weight medical debt less heavily than credit card or loan debt
+
+Ignore paid medical collections entirely
+
+Recognize that medical debt is often involuntary and does not indicate poor financial management
+
+The Catch
+
+Many lenders still use older FICO models (FICO 8 and earlier) that do not give medical debt special treatment. Mortgage lenders, in particular, often use FICO 2, 4, and 5 -- older models that treat medical collections the same as any other negative item. This means medical debt can still affect your ability to get a mortgage even if your FICO 9 score is higher.
+
+If You Are Being Sued
+
+A lawsuit and judgment for medical debt has a significant credit impact regardless of the scoring model. If a medical creditor is suing you, the credit report impact is the least of your concerns -- the garnishment and judgment are more immediate threats. This is when bankruptcy should be seriously considered.
+
+Related Guides
+
+Credit Reporting Changes
+
+Index
+
+Medical Debt Lawsuits
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+openbankruptcyproject.org
+♥ Sponsor
+
+Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+
+### Common Questions -- Medical Debt and Bankruptcy
+Source: https://medicaldebtbankruptcy.com/paa/index.html
+
+medicaldebtbankruptcy.com
+
+Home
+Questions
+
+Common Questions
+
+Clear, data-backed answers to the most frequently asked questions
+
+Can medical debt be discharged in bankruptcy?
+
+Should I file bankruptcy for medical bills?
+
+Does medical debt affect your credit score?
+
+Part of the Bankruptcy Transparency Network
+
+1328f.com
+openbankruptcyproject.org
+
+Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
+
+### Should I file bankruptcy for medical bills? -- Medical Debt and Bankruptcy
+Source: https://medicaldebtbankruptcy.com/paa/should-i-file-bankruptcy-for-medical-bills.html
+
+Skip to content
+
+medicaldebtbankruptcy.com
+
+Home
+Questions
+
+Home › Common Questions › Should I file bankruptcy for medical bills?
+
+People Also Ask
+
+Should I file bankruptcy for medical bills?
+
+File bankruptcy for medical bills when the total exceeds what you can repay within 2-3 years, when medical collectors are suing or garnishing wages, or when medical debt is combined with other debts creating an unsustainable burden. If medical debt is your only debt and under $5,000, negotiate directly or apply for charity care first.
+
+Whether bankruptcy is the right tool for medical debt depends on the total amount, your other debts, and whether creditors are taking legal action.
+
+When Bankruptcy Makes Sense
+
+Medical debt exceeds $10,000 and you cannot pay it within 2-3 years
+
+Medical collectors have filed a lawsuit or obtained a judgment
+
+Your wages are being garnished for medical debt
+
+Medical debt is combined with credit card, personal loan, or other debts
+
+You have ongoing medical conditions that will generate more bills
+
+The stress of medical debt is affecting your health or daily functioning
+
+When Bankruptcy May Be Overkill
+
+Medical debt is under $5,000 and is your only significant debt
+
+The provider offers a manageable payment plan with no interest
+
+You qualify for the hospital's charity care program
+
+The debt is already past the statute of limitations in your state
+
+The medical debt has been removed from your credit report under new rules
+
+The Math Test
+
+Add up all your debts -- not just medical. Calculate your monthly income and essential expenses. If the remaining amount cannot repay your total debt within 3-5 years, bankruptcy is likely the rational choice. Bankruptcy eliminates all qualifying unsecured debt at once, not just medical bills.
+
+Many people delay filing because they feel ashamed about medical debt. There is no shame in using a legal process that exists specifically for this situation. Medical debt is the most common type of debt in bankruptcy, and the system is designed to help you recover.
+
+Related Guides
+
+Index
+
+Chapter 7 Medical Debt
+
+Hospital Charity Care
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+openbankruptcyproject.org
+♥ Sponsor
+
+Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
