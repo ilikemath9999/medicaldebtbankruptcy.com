@@ -1,22 +1,23 @@
-# Medical Debt in Bankruptcy -- Discharge Guide [2026]
+# Medical Debt in Bankruptcy - Discharge Guide [2026]
 > Medical bills are fully dischargeable in Chapter 7 and Chapter 13 bankruptcy. Learn eligibility, process, and alternatives. 2026 guide.
 
 ## About
 medicaldebtbankruptcy.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Bankruptcy Exemptions and Medical Assets -- Medical Debt: https://medicaldebtbankruptcy.com/bankruptcy-exemptions.html
+- Bankruptcy Exemptions and Medical Assets - Medical Debt: https://medicaldebtbankruptcy.com/bankruptcy-exemptions.html
 - Chapter 13 Bankruptcy for Medical Debt: https://medicaldebtbankruptcy.com/chapter-13-medical-debt.html
 - Chapter 7 Bankruptcy for Medical Debt: https://medicaldebtbankruptcy.com/chapter-7-medical-debt.html
 - Medical Debt Credit Reporting Changes: https://medicaldebtbankruptcy.com/credit-reporting-changes.html
-- Hospital Charity Care Programs -- Medical Debt: https://medicaldebtbankruptcy.com/hospital-charity-care.html
-- Medical Debt in Bankruptcy -- Discharge Guide: https://medicaldebtbankruptcy.com/
+- Medical Debt Bankruptcy FAQ - Discharge Medical Bills: https://medicaldebtbankruptcy.com/frequently-asked-questions.html
+- Hospital Charity Care Programs - Medical Debt: https://medicaldebtbankruptcy.com/hospital-charity-care.html
+- Medical Debt in Bankruptcy - Discharge Guide: https://medicaldebtbankruptcy.com/
 - Life After Medical Debt Discharge: https://medicaldebtbankruptcy.com/life-after-discharge.html
 - When Hospitals and Collectors Sue for Medical Debt: https://medicaldebtbankruptcy.com/medical-debt-lawsuits.html
-- Negotiating Medical Bills -- Medical Debt: https://medicaldebtbankruptcy.com/negotiating-medical-bills.html
-- The No Surprises Act -- Medical Debt: https://medicaldebtbankruptcy.com/no-surprises-act.html
-- Medical Debt Bankruptcy FAQ -- Discharge Medical Bills: https://medicaldebtbankruptcy.com/frequently-asked-questions.html
-- Medical Debt Options Compared -- Negotiation, Charity Care, Bankruptcy: https://medicaldebtbankruptcy.com/medical-debt-options.html
+- Medical Debt Options Compared - Negotiation, Charity Care, Bankruptcy: https://medicaldebtbankruptcy.com/medical-debt-options.html
+- Negotiating Medical Bills - Medical Debt: https://medicaldebtbankruptcy.com/negotiating-medical-bills.html
+- The No Surprises Act - Medical Debt: https://medicaldebtbankruptcy.com/no-surprises-act.html
+- Privacy Policy: https://medicaldebtbankruptcy.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
