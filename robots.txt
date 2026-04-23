@@ -2,4 +2,5 @@ User-agent: *
 Allow: /
 
 
-Sitemap: https://medicaldebtbankruptcy.com/sitemap.xml
+
+Sitemap: https://medicaldebtbankruptcy.com/sitemapindex.xml
